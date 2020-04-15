@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9042c43db2d04f991faff3b15442cc2e",
+    "revision": "def476183d57b464722e3fa5be0b0486",
     "url": "/Web3AP-UTS-PriharReformasiK/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Web3AP-UTS-PriharReformasiK/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "118ab81fe8c42f892a58",
+    "revision": "a926289e0f3fc8fb8b53",
     "url": "/Web3AP-UTS-PriharReformasiK/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "118ab81fe8c42f892a58",
-    "url": "/Web3AP-UTS-PriharReformasiK/static/js/main.12021e76.chunk.js"
+    "revision": "a926289e0f3fc8fb8b53",
+    "url": "/Web3AP-UTS-PriharReformasiK/static/js/main.2ede185f.chunk.js"
   },
   {
     "revision": "2783138d7ace950882f4",
