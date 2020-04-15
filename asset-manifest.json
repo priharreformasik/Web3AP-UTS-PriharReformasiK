@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Web3AP-UTS-PriharReformasiK/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Web3AP-UTS-PriharReformasiK/static/js/main.2ede185f.chunk.js",
-    "main.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/main.2ede185f.chunk.js.map",
+    "main.js": "/Web3AP-UTS-PriharReformasiK/static/js/main.980710a9.chunk.js",
+    "main.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/main.980710a9.chunk.js.map",
     "runtime-main.js": "/Web3AP-UTS-PriharReformasiK/static/js/runtime-main.14ee28c3.js",
     "runtime-main.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/runtime-main.14ee28c3.js.map",
     "static/css/2.69121389.chunk.css": "/Web3AP-UTS-PriharReformasiK/static/css/2.69121389.chunk.css",
-    "static/js/2.55947f8b.chunk.js": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js",
-    "static/js/2.55947f8b.chunk.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js.map",
+    "static/js/2.b069cdf7.chunk.js": "/Web3AP-UTS-PriharReformasiK/static/js/2.b069cdf7.chunk.js",
+    "static/js/2.b069cdf7.chunk.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/2.b069cdf7.chunk.js.map",
     "index.html": "/Web3AP-UTS-PriharReformasiK/index.html",
-    "precache-manifest.441b65a2dbbfe0c4373d8e76bf11b821.js": "/Web3AP-UTS-PriharReformasiK/precache-manifest.441b65a2dbbfe0c4373d8e76bf11b821.js",
+    "precache-manifest.5d42593397bd67f9e2063134d48ae318.js": "/Web3AP-UTS-PriharReformasiK/precache-manifest.5d42593397bd67f9e2063134d48ae318.js",
     "service-worker.js": "/Web3AP-UTS-PriharReformasiK/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/Web3AP-UTS-PriharReformasiK/static/css/2.69121389.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/Web3AP-UTS-PriharReformasiK/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.55947f8b.chunk.js.LICENSE.txt": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js.LICENSE.txt",
+    "static/js/2.b069cdf7.chunk.js.LICENSE.txt": "/Web3AP-UTS-PriharReformasiK/static/js/2.b069cdf7.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Web3AP-UTS-PriharReformasiK/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.14ee28c3.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.55947f8b.chunk.js",
+    "static/js/2.b069cdf7.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2ede185f.chunk.js"
+    "static/js/main.980710a9.chunk.js"
   ]
 }

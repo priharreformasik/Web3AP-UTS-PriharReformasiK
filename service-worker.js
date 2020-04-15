@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Web3AP-UTS-PriharReformasiK/precache-manifest.441b65a2dbbfe0c4373d8e76bf11b821.js"
+  "/Web3AP-UTS-PriharReformasiK/precache-manifest.5d42593397bd67f9e2063134d48ae318.js"
 );
 
 self.addEventListener('message', (event) => {

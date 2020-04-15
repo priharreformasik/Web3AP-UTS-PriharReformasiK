@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "def476183d57b464722e3fa5be0b0486",
+    "revision": "3e87abef4437893ed5ea0a7775ee2463",
     "url": "/Web3AP-UTS-PriharReformasiK/index.html"
   },
   {
-    "revision": "937643239a966b78ea25",
+    "revision": "8f6aba291632ca15471c",
     "url": "/Web3AP-UTS-PriharReformasiK/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "a926289e0f3fc8fb8b53",
+    "revision": "3edb3b9d134ebfeda7a4",
     "url": "/Web3AP-UTS-PriharReformasiK/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "937643239a966b78ea25",
-    "url": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js"
+    "revision": "8f6aba291632ca15471c",
+    "url": "/Web3AP-UTS-PriharReformasiK/static/js/2.b069cdf7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js.LICENSE.txt"
+    "url": "/Web3AP-UTS-PriharReformasiK/static/js/2.b069cdf7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a926289e0f3fc8fb8b53",
-    "url": "/Web3AP-UTS-PriharReformasiK/static/js/main.2ede185f.chunk.js"
+    "revision": "3edb3b9d134ebfeda7a4",
+    "url": "/Web3AP-UTS-PriharReformasiK/static/js/main.980710a9.chunk.js"
   },
   {
     "revision": "2783138d7ace950882f4",
