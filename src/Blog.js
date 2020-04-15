@@ -75,9 +75,11 @@ class Blog extends React.Component {
         {this.state.data.map((article, index) => (
           <div className="col-md-6" key={index}>
             <ArticleCard
-              id={article.id}
-              title={article.title}
-              summary={article.summary}
+              id={article.id} 
+              categoryName={article.categoryName} 
+              title={article.title} 
+              postedAt={article.postedAt} 
+              summary={article.summary} 
               imageUrl={article.imageUrl}
             />
           </div>

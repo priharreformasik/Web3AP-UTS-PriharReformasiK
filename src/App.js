@@ -13,6 +13,7 @@ import Blog from "./Blog";
 
 //install bootstrap dulu
 import 'bootstrap/dist/css/bootstrap.min.css';
+import DetailBlog from './BlogDetail';
 
 // Ini merupakan functional component
 // https://getbootstrap.com/docs/4.4/examples/navbar-static/
@@ -25,7 +26,7 @@ function App() {
           <Route path="/about">
             About
           </Route>
-          <Route path="/blog/:articleId" component={Blog} />
+          <Route path="/blog/:articleId" component={DetailBlog} />
           <Route path="/blog">
             <Blog />
           </Route>
