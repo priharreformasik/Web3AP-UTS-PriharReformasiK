@@ -43,7 +43,7 @@ class Blog extends React.Component {
   }
 
   componentDidMount() {
-    fetch("/api/blog")
+    fetch("https://dev-reservasi.technow.id/api/blog")
       .then(res => res.json())
       .then(json =>
         this.setState({
