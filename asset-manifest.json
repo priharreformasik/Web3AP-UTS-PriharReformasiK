@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Web3AP-UTS-PriharReformasiK/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Web3AP-UTS-PriharReformasiK/static/js/main.99fd0843.chunk.js",
-    "main.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/main.99fd0843.chunk.js.map",
+    "main.js": "/Web3AP-UTS-PriharReformasiK/static/js/main.6f99b469.chunk.js",
+    "main.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/main.6f99b469.chunk.js.map",
     "runtime-main.js": "/Web3AP-UTS-PriharReformasiK/static/js/runtime-main.14ee28c3.js",
     "runtime-main.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/runtime-main.14ee28c3.js.map",
     "static/css/2.69121389.chunk.css": "/Web3AP-UTS-PriharReformasiK/static/css/2.69121389.chunk.css",
     "static/js/2.55947f8b.chunk.js": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js",
     "static/js/2.55947f8b.chunk.js.map": "/Web3AP-UTS-PriharReformasiK/static/js/2.55947f8b.chunk.js.map",
     "index.html": "/Web3AP-UTS-PriharReformasiK/index.html",
-    "precache-manifest.015f7230eee799d5980ececdbc93ce53.js": "/Web3AP-UTS-PriharReformasiK/precache-manifest.015f7230eee799d5980ececdbc93ce53.js",
+    "precache-manifest.aa1d9da3a14217262ed98b9a5f7dd4b5.js": "/Web3AP-UTS-PriharReformasiK/precache-manifest.aa1d9da3a14217262ed98b9a5f7dd4b5.js",
     "service-worker.js": "/Web3AP-UTS-PriharReformasiK/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/Web3AP-UTS-PriharReformasiK/static/css/2.69121389.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/Web3AP-UTS-PriharReformasiK/static/css/main.d1b05096.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.55947f8b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.99fd0843.chunk.js"
+    "static/js/main.6f99b469.chunk.js"
   ]
 }
